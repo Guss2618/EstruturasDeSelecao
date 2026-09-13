@@ -1,0 +1,15 @@
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+out/
+bin/
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/private/
+build/
+dist/
